@@ -18,9 +18,9 @@ Here is a summary of the projects included in this repository. Click on a projec
 |---|---|---|---|
 | 1 | **[Diabetes Prediction](./Diabetes%20Prediction)** | A classification model to predict the onset of diabetes based on diagnostic medical measurements. | `Logistic Regression`, `Data Preprocessing`, `Model Evaluation` |
 | 2 | **[SONAR Rock vs Mine](./SONAR%20Rock%20vs%20Mine%20Prediction)** | A binary classification model to differentiate between SONAR signals bounced off a metal cylinder (mine) and a rock. | `Logistic Regression`, `Classification Metrics`, `Data Analysis` |
+| 3 | **[Fake News Prediction](./Fake%20News%20Prediction)** | A Natural Language Processing project to classify whether a given news article is real or fake. | `NLP`, `TF-IDF`, `Logistic Regression`, `Text Preprocessing` |
 | | *... more projects coming soon!* | | |
 
----
 
 ## 🛠️ Technology & Tools
 
